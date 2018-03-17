@@ -5,7 +5,7 @@ I began learning the rust programming language about two weeks ago. It was final
 
 ## Quick Start
 ```
-# download CLI Game
+# clone CLI Game
 git clone https://github.com/robertDurst/rust-cli-game.git
 cd game
 
