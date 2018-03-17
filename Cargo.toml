@@ -1,0 +1,8 @@
+[package]
+name = "game"
+version = "0.1.0"
+authors = ["rustee"]
+
+[dependencies]
+rand = "0.4"
+colored = "1.6"
