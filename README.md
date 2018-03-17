@@ -28,16 +28,13 @@ cargo build
 - [x] Use keyword
 - [x] Mod keyword
 - [x] Loop
-- [ ] While
-- [ ] For
-- [ ] Borrow (ownership)
-- [ ] Move (ownership)
-- [ ] Include dependencies
-- [ ] Match
-- [ ] If Let
-- [ ] Enums
-- [ ] Comments
-- [ ] Comments -- docs
+- [x] Include dependencies
+- [x] Match
+- [x] Comments
+- [x] Borrow (ownership)
+- [x] If Let
+- [x] Move (ownership)
+- [x] Enum
 
 ## Helpful Sources Used so Far
 * [Rust Book Second Edition](https://doc.rust-lang.org/book/second-edition/)
