@@ -1,4 +1,4 @@
-# High Low -- My First Rust CLI Game
+# High Low -- My First Rust CLI Game Ever
 I began learning the rust programming language about two weeks ago. It was finally time to build something, so I came up with a classic CLI game, *High Low*. The rules are simple: guess whether or not the next number is greater than the previous number.
 
 ![Picture of terminal running the game.](https://imgur.com/NaY3psh.png)
